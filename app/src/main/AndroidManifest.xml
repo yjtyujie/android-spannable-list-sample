@@ -7,7 +7,7 @@
         android:label="List Span Sample"
         android:theme="@style/AppTheme"
         android:supportsRtl="true">
-        <activity android:name="com.daphneliu.sample.listspansample.MainActivity">
+        <activity android:name="com.daphneliu.sample.listspansample.MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

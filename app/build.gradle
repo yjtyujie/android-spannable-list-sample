@@ -9,8 +9,8 @@ android {
     compileSdk 34
     defaultConfig {
         applicationId "com.daphneliu.sample.listspansample"
-        minSdkVersion 21
-        targetSdkVersion 29
+        minSdk 21
+        targetSdk 34
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
